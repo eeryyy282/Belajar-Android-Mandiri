@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyConstraintView</string>
+    <string name="content_text">The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. Announced as the successor to the PlayStation 3 in February 2013, it was launched on November 15, 2013, in North America, November 29, 2013, in Europe, South America and Australia, and on February 22, 2014, in Japan.</string>
+    <string name="content_specs_technical">APU Developed by AMD in cooperation with Sony\nCPU consist of two 28 nm quad-core Jaguar modules totaling 8 64-bit x86-64 cores\nGPU consist of 18 compute units to produce a theoretical peak performance of 1.84 TFLOPS</string>
+    <string name="content_specs_software">Orbit OS\nBased upon a customized FreeBSD</string>
+    <string name="content_specs_support">Support HDR, Wifi and Ethernet conectivity, and two 3.0 ports.</string>
+    <string name="title">Playstation 4</string>
+    <string name="spesification">Spesifikasi</string>
+    <string name="technical">Technichal</string>
+    <string name="software">Software</string>
+    <string name="suppoort">Support</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="name">Muhammad Juzairi Safitli</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$1200</string>
+    <string name="dummy_photos">6 photos</string>
+</resources>
